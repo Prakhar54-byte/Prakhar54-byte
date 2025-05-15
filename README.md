@@ -115,13 +115,6 @@ I'm always excited to connect with fellow developers, students, and potential co
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=social&logo=github" alt="GitHub Follow"/>
   </a>
 </p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 
 
@@ -130,3 +123,6 @@ I'm always excited to connect with fellow developers, students, and potential co
 <p align="center">
   <em>Thanks for stopping by my profile! Have a great day! 😊</em>
 </p>
+
+
+![snake gif](https://github.com/Prakhar54-byte/Prakhar54-byte/blob/output/github-snake-dark.svg)
