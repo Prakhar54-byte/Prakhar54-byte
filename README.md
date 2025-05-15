@@ -93,7 +93,11 @@ Here are some of the projects I've worked on or contributed to:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
