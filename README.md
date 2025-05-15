@@ -84,7 +84,6 @@ Here are some of the projects I've worked on or contributed to:
    🔗 [View on GitHub](https://github.com/prasangeet/Pathfinding-DSA-project)
 
 ---
-
 ## 📊 My GitHub Stats & Activity
 
 <p align="center">
@@ -93,12 +92,13 @@ Here are some of the projects I've worked on or contributed to:
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=Prakhar54-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+</p>
+
 
 ---
 
@@ -115,6 +115,15 @@ I'm always excited to connect with fellow developers, students, and potential co
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=social&logo=github" alt="GitHub Follow"/>
   </a>
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
 
 ---
 
