@@ -116,7 +116,7 @@ I'm always excited to connect with fellow developers, students, and potential co
 
 
 ---
-<div align="center>
+<div align="center">
 ![snake gif](https://github.com/Prakhar54-byte/Prakhar54-byte/blob/output/github-contribution-grid-snake-dark.svg)
 <div>
 <p align="center">
