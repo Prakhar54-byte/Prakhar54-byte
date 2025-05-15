@@ -95,9 +95,6 @@ Here are some of the projects I've worked on or contributed to:
   <img src="https://streak-stats.demolab.com/?user=Prakhar54-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
 
 
 ---
