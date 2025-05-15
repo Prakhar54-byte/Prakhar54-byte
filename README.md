@@ -117,9 +117,9 @@ I'm always excited to connect with fellow developers, students, and potential co
 
 ---
 
+![snake gif](https://github.com/Prakhar54-byte/Prakhar54-byte/blob/output/github-snake-dark.svg)
+
 <p align="center">
   <em>Thanks for stopping by my profile! Have a great day! 😊</em>
 </p>
 
-
-![snake gif](https://github.com/Prakhar54-byte/Prakhar54-byte/blob/output/github-snake-dark.svg)
