@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=500&lines=The+cake+is+a+lie.+%F0%9F%8E%82;Code.+Commit.+Repeat.+%F0%9F%94%81;Building+cool+stuff+%F0%9F%9A%80;Powered+by+coffee+and+curiosity+%E2%98%95%F0%9F%A7%A0;Clean+code+is+my+superpower+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=500&lines=Code.+Commit.+Repeat.+%F0%9F%94%81;Building+cool+stuff+%F0%9F%9A%80;Powered+by+chai+and+curiosity+%E2%98%95%F0%9F%A7%A0;Clean+code+is+my+superpower+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 
