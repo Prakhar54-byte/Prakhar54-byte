@@ -4,7 +4,7 @@
 </p>
 
 <div align="center" style="margin-bottom: -15px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;It's not who I am underneath, but what I do that defines me.;Passionate+about+tech+and+innovation;Let's+build+something+awesome+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.com?font=Fira+Code&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;It's not who I am underneath, but what I do that defines me.;Passionate+about+tech+and+innovation;Let's+build+something+awesome+!" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
