@@ -12,9 +12,9 @@
 </h1>
 
 <p align="center">
-  <em>Aspiring Software Developer | Student at Indian Institute of Technology Jodhpur<br>
+  <em>Aspiring Software Developer | It's not who I am underneath, but what I do that defines me.<br>
   Passionate about exploring new technologies and building impactful solutions.<br>
-  Currently diving deeper into C, JavaScript, and React.</em>
+  Currently diving deeper into C++, JavaScript, and React.</em>
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ Here are some of the technologies and tools I'm working with or have experience 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prakhar54-byte&show_icons=true&theme=gruvbox-duo&count_private=true&hide_border=true&rank_icon=github" alt="Prakhar's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar54-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar54-byte&layout=compact&theme=gruvbox-duo&hide_border=true" alt="Top Languages" height="170"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Prakhar54-byte&theme=gruvbox-duo&hide_border=true" alt="GitHub Streak Stats" height="170"/>
 </p>
 
@@ -131,16 +131,7 @@ Here are some of the technologies and tools I'm working with or have experience 
 
 ---
 
-## 🎬 Cool Lines from Movies
 
-> "Do, or do not. There is no try."  
-> <em>— Yoda, Star Wars: The Empire Strikes Back</em>
-
-> "It's not who I am underneath, but what I do that defines me."  
-> <em>— Bruce Wayne, Batman Begins</em>
-
-> "Why do we fall, sir? So that we can learn to pick ourselves up."  
-> <em>— Alfred, Batman Begins</em>
 
 > "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it."  
 > <em>— Ferris Bueller, Ferris Bueller's Day Off</em>
