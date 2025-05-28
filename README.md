@@ -103,7 +103,7 @@ Here are some of the technologies and tools I'm working with or have experience 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prakhar54-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=Prakhar54-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170"/>
 </p>
 
 ---
