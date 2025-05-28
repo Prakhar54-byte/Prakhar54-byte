@@ -106,9 +106,9 @@ Here are some of the technologies and tools I'm working with or have experience 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar54-byte&show_icons=true&theme=gruvbox-duo&count_private=true&hide_border=true&rank_icon=github" alt="Prakhar's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar54-byte&layout=compact&theme=gruvbox-duo&hide_border=true" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar54-byte&theme=gruvbox-duo&hide_border=true&background=000000" alt="GitHub Streak Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar54-byte&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="Prakhar's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar54-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Prakhar54-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170"/>
 </p>
 
 
