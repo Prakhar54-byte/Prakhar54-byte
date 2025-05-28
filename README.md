@@ -3,6 +3,10 @@
   <!-- <img src="https://your-image-url.com/banner.gif" alt="Prakhar54-byte - GitHub Profile Banner" width="800"/> -->
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;IIT+Jodhpur+Student;Passionate+about+tech+and+innovation;Let's+build+something+awesome+!" alt="Typing SVG" />
+</p>
+
 <h1 align="center">
   Hi there, I'm Prakhar Chauhan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand"/>
 </h1>
@@ -98,13 +102,10 @@ Here are some of the technologies and tools I'm working with or have experience 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar54-byte&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="Prakhar's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar54-byte&show_icons=true&theme=gruvbox-duo&count_private=true&hide_border=true&rank_icon=github" alt="Prakhar's GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar54-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Prakhar54-byte&theme=gruvbox-duo&hide_border=true" alt="GitHub Streak Stats" height="170"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Prakhar54-byte&theme=gruvbox-duo&hide_border=true" alt="GitHub Streak Stats" height="170"/>
 </p>
-
-
-
 
 ---
 
@@ -127,6 +128,24 @@ Here are some of the technologies and tools I'm working with or have experience 
 <p align="center">
   <img src="https://github.com/Prakhar54-byte/Prakhar54-byte/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
+
+---
+
+## 🎬 Cool Lines from Movies
+
+> "Do, or do not. There is no try."  
+> <em>— Yoda, Star Wars: The Empire Strikes Back</em>
+
+> "It's not who I am underneath, but what I do that defines me."  
+> <em>— Bruce Wayne, Batman Begins</em>
+
+> "Why do we fall, sir? So that we can learn to pick ourselves up."  
+> <em>— Alfred, Batman Begins</em>
+
+> "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it."  
+> <em>— Ferris Bueller, Ferris Bueller's Day Off</em>
+
+---
 
 <p align="center">
   <em>Thanks for visiting my profile! Have a great day! 😊</em>
