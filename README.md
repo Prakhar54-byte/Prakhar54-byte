@@ -35,7 +35,6 @@
 - 👨‍💻 Enthusiastic learner and aspiring **Software Developer**
 - 💡 Currently focused on **C, JavaScript, and React**
 - 🌱 Exploring diverse tech domains and contributing to meaningful projects
-- 🤝 Open to collaborations and new challenges
 - 💬 Let’s connect if you’d like to discuss projects, tech, or ideas!
 
 ---
