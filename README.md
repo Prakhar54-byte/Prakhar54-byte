@@ -1,7 +1,4 @@
-<p align="center">
-  <!-- Optional: Add a header image or GIF here -->
-  <!-- <img src="https://your-image-url.com/banner.gif" alt="Prakhar54-byte - GitHub Profile Banner" width="800"/> -->
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=500&lines=Code.+Commit.+Repeat.+%F0%9F%94%81;Building+cool+stuff+%F0%9F%9A%80;Powered+by+chai+and+curiosity+%E2%98%95%F0%9F%A7%A0;Clean+code+is+my+superpower+%F0%9F%92%BB" alt="Typing SVG" />
@@ -110,6 +107,14 @@ Here are some of the technologies and tools I'm working with or have experience 
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Prakhar54-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170"/>
 </p>
 
+
+---
+
+## 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
 
 ---
 
