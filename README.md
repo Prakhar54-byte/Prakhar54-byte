@@ -113,7 +113,9 @@ Here are some of the technologies and tools I'm working with or have experience 
 ## 📊 My GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhr54byte&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhar54-byte&show_icons=true)
+
+  <!--   <img src="https://github-readme-stats.vercel.app/api?username=Prakhr54byte&show_icons=true&theme=tokyonight" alt="GitHub Stats"/> -->
 </p>
 
 ---
