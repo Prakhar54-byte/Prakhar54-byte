@@ -35,6 +35,7 @@
 - 💬 Let’s connect if you’d like to discuss projects, tech, or ideas!
 
 ---
+
 ---
 
 ## 🌐 Portfolio Website
@@ -44,6 +45,20 @@
 👉 **Portfolio:** [https://prakhar-portfolio-eta.vercel.app](https://prakhar-portfolio-eta.vercel.app)
 
 ---
+---
+
+## 🧠 Competitive Programming & DSA
+
+- 🟠 **LeetCode:** https://leetcode.com/u/prakhar54-byte/  
+  - 250+ problems solved  
+  - Strong in DSA & interview prep
+
+- 🔵 **Codeforces:** https://codeforces.com/profile/prakharchauhan179
+  - Active competitive programmer  
+  - Improving rating & contest participation
+
+---
+
 
 
 ## 🛠️ My Tech Stack & Tools
