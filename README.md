@@ -50,7 +50,7 @@
 ## 🧠 Competitive Programming & DSA
 
 - 🟠 **LeetCode:** https://leetcode.com/u/prakhar54-byte/  
-  - 250+ problems solved  
+  - 500+ problems solved  
   - Strong in DSA & interview prep
 
 - 🔵 **Codeforces:** https://codeforces.com/profile/prakharchauhan179
