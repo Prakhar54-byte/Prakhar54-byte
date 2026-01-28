@@ -35,6 +35,16 @@
 - 💬 Let’s connect if you’d like to discuss projects, tech, or ideas!
 
 ---
+---
+
+## 🌐 Portfolio Website
+
+🚀 Check out my personal portfolio to see my projects, skills, and experience in detail:  
+
+👉 **Portfolio:** [https://prakhar-portfolio-eta.vercel.app](https://prakhar-portfolio-eta.vercel.app)
+
+---
+
 
 ## 🛠️ My Tech Stack & Tools
 
