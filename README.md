@@ -148,7 +148,7 @@ Here are some of the technologies and tools I'm working with or have experience 
 
 
 >"I don't want to survive. I want to live."  
-> <em>— The Captain, WALL-E</em>
+> <em>— The Captain WALL-E</em>
 
 ---
 
