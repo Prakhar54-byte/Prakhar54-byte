@@ -15,7 +15,7 @@
 <p align="center">
   <em>Aspiring Software Developer | It's not who I am underneath, but what I do that defines me.<br>
   Passionate about exploring new technologies and building impactful solutions.<br>
-  Currently diving deeper into C++, JavaScript, and React.</em>
+  Currently diving deeper into C++,Typescript JavaScript, and React.</em>
 </p>
 
 <p align="center">
