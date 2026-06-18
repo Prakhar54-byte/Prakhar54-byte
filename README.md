@@ -6,21 +6,25 @@
 
 
 
-
 <h1 align="center">
-  Hi there, I'm Prakhar Chauhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hands"/>
+  Hi there, I'm Prakhar Chauhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hands"/>
 </h1>
 
-
 <p align="center">
-  <em>Aspiring Software Developer | It's not who I am underneath, but what I do that defines me.<br>
-  Passionate about exploring new technologies and building impactful solutions.<br>
-  Currently diving deeper into C++,Typescript JavaScript, and React.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=600&lines=Software+Development+Engineer;Machine+Learning+Enthusiast;Open+Source+Contributor;Building+impactful+solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prakhar-chauhan-9a32b52b4/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Prakhar%20Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  <em>Aspiring Software Development & Machine Learning Engineer | Constant Learner</em><br>
+  Passionate about architecting robust backend systems, deep learning models, and contributing to the open-source ecosystem.
+</p>
+
+<p align="center">
+  <a href="https://prakhar-portfolio-eta.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prakhar-chauhan-9a32b52b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
 </p>
 
@@ -28,116 +32,81 @@
 
 ## 🚀 About Me
 
-- 🎓 Studying at the **Indian Institute of Technology Jodhpur (IITJ)**
-- 👨‍💻 Enthusiastic learner and aspiring **Software Developer**
-- 💡 Currently focused on **C, JavaScript, and React**
-- 🌱 Exploring diverse tech domains and contributing to meaningful projects
-- 💬 Let’s connect if you’d like to discuss projects, tech, or ideas!
+- 🎓 Pursuing a **B.Tech in Bioscience and Bioengineering with a Minor in Artificial Intelligence** at the **Indian Institute of Technology Jodhpur (IITJ)**.
+- 👨‍💻 Focused on **Full-Stack Development (MERN/Django)** and **Machine Learning (Deep Learning, GANs, Transformers)**.
+- 🐧 Advanced Linux user developing primarily on **Arch Linux (Wayland, KDE Plasma)**.
+- 💬 Always open to discussing system architecture, competitive programming, or AI research.
 
 ---
 
----
+## 🌍 Open Source Contributions
 
-## 🌐 Portfolio Website
-
-🚀 Check out my personal portfolio to see my projects, skills, and experience in detail:  
-
-👉 **Portfolio:** [https://prakhar-portfolio-eta.vercel.app](https://prakhar-portfolio-eta.vercel.app)
-
----
----
-
-## 🧠 Competitive Programming & DSA
-
-- 🟠 **LeetCode:** https://leetcode.com/u/prakhar54-byte/  
-  - 500+ problems solved  
-  - Strong in DSA & interview prep
-
-- 🔵 **Codeforces:** https://codeforces.com/profile/prakharchauhan179
-  - Active competitive programmer  
-  - Improving rating & contest participation
+I am a strong advocate for open-source software and actively contribute to community-driven projects.
+- 🔀 **Merged Pull Requests:** Regularly contributing code, bug fixes, and feature enhancements to various repositories with a track record of successfully merged PRs.
+- 🌟 **GirlScript Summer of Code (GSSoC):** Active participant contributing to the Open Source and Artificial Intelligence Agents tracks.
 
 ---
 
+## 🛠️ Technical Arsenal
 
-
-## 🛠️ My Tech Stack & Tools
-
-Here are some of the technologies and tools I'm working with or have experience in:
-
-**Languages:**  
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+**Languages**  
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 
-**Frameworks & Libraries:**  
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+**Backend & Frameworks**  
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 
-**Databases:**  
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-
-**Tools & Platforms:**  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
-<img src="https://img.shields.io/badge/Zsh-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="Zsh"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-
-**Data Science & ML:**  
+**Machine Learning & Data Science**  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 
----
-
-## ✨ Pinned Projects & Contributions
-
-1. 🖼️ **Image-Processing-in-C**  
-   A personal project exploring various image processing algorithms and techniques implemented from scratch in C.  
-   🔗 [View on GitHub](https://github.com/Prakhar54-byte/Image-Processing-in-C)
-
-2. 🤝 **CSRconnect**  
-   Contributed to a platform connecting CSR initiatives with SDG-aligned academic research. Features PDF parsing, AI-based SDG classification, and a dashboard.  
-   🔗 [View on GitHub](https://github.com/prasangeet/CSRconnect)
-
-3. 🗺️ **Pathfinding DSA project**  
-   Helped implement a shortest pathfinding system using Dijkstra’s algorithm with Django and MapLibre GL JS.  
-   🔗 [View on GitHub](https://github.com/prasangeet/Pathfinding-DSA-project)
+**Infrastructure, Databases & Tools**  
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## ✨ Featured Projects
 
-<p align="center">
+1. 🤝 **CSR Connect**
+   - A production-grade compliance auditing pipeline built for university faculty. Utilizes **Google Gemini API**, **RAG (Retrieval-Augmented Generation)**, **PostgreSQL**, and the **Django REST framework** to automate document analysis and SDG classification.
+   - 🔗 [View on GitHub](https://github.com/prasangeet/CSRconnect)
+
+2. 📹 **Streamify**
+   - A real-time, full-stack language exchange platform engineered using **WebRTC** and containerized with **Docker** for seamless deployment and scalability.
+
+3. 🔍 **High-Capacity Bi-directional FPN (YOLOv12-nano)**
+   - Research-focused integration of a BiFPN into YOLOv12-nano architecture to significantly enhance small object detection capabilities.
+
+4. 🖼️ **Image-Processing-in-C**
+   - Implemented low-level image processing algorithms and filters from scratch using **C** to optimize execution time and memory overhead.
+   - 🔗 [View on GitHub](https://github.com/Prakhar54-byte/Image-Processing-in-C)
+
+---
+
+## 🧠 Competitive Programming
+
+Consistently refining algorithmic problem-solving skills and data structure mastery:
+- 🟠 **LeetCode:** [prakhar54-byte](https://leetcode.com/u/prakhar54-byte/) | 500+ problems solved
+- 🔵 **Codeforces:** [prakharchauhan179](https://codeforces.com/profile/prakharchauhan179) | Active participant in rated contests
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Prakhar54-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170"/>
-</p>
-
-
-
-## 📫 Get In Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prakhar-chauhan-9a32b52b4/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin" alt="LinkedIn Connect"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Prakhar54-byte" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=social&logo=github" alt="GitHub Follow"/>
-  </a>
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
+</div>
 
 <p align="center">
   <img src="https://github.com/Prakhar54-byte/Prakhar54-byte/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
@@ -145,13 +114,4 @@ Here are some of the technologies and tools I'm working with or have experience 
 
 ---
 
-
-
->"I don't want to survive. I want to live."  
-> <em>— The Captain WALL-E</em>
-
----
-
-<p align="center">
-  <em>Thanks for visiting my profile! Have a great day! 😊</em>
-</p>
+> *"I don't want to survive. I want to live."* — **WALL-E**
