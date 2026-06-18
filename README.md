@@ -88,10 +88,7 @@ I am a strong advocate for open-source software and actively contribute to commu
 3. 🔍 **High-Capacity Bi-directional FPN (YOLOv12-nano)**
    - Research-focused integration of a BiFPN into YOLOv12-nano architecture to significantly enhance small object detection capabilities.
 
-4. 🖼️ **Image-Processing-in-C**
-   - Implemented low-level image processing algorithms and filters from scratch using **C** to optimize execution time and memory overhead.
-   - 🔗 [View on GitHub](https://github.com/Prakhar54-byte/Image-Processing-in-C)
-
+4. 🦇 SpellJump — AI Typo JumperAn AI-powered VS Code and Cursor extension that provides real-time, offline-first typo detection and cursor jumping.Tech Stack: TypeScript, ONNX, PyTorch, DistilBERT, Hugging FaceHighlights: Trained and fine-tuned a DistilBERT model using PyTorch, exporting it to ONNX format to run lightning-fast locally without eating up system RAM. It features real-time diagnostics, quick-fix suggestions, and integrated keyboard shortcuts for seamless typo navigation.  
 ---
 
 ## 🧠 Competitive Programming
