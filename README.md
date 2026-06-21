@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>Aspiring AI & ML Engineer | Constant Learner</em><br>
+  <em>Aspiring Software Development & Machine Learning Engineer | Constant Learner</em><br>
   Passionate about architecting robust backend systems, deep learning models, and contributing to the open-source ecosystem.
 </p>
 
@@ -127,9 +127,9 @@ Consistently refining algorithmic problem-solving skills and data structure mast
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/dist/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/dist/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
