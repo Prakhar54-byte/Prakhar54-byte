@@ -27,19 +27,6 @@
 
 ---
 
-## 📡 Live Status
-
-```yaml
-🏋️  Gym:            done. mental sanity recompiling...
-☕  Caffeine:        critically low, send chai
-🐛  Bugs today:      fixed: 3  |  created: 5  |  net: questionable
-📚  DSA grind:       Striver Sheet, one topic at a time
-🚀  Currently:       building a cross-OS TUI file-sharer (Linux ↔ Windows, NTFS bridge)
-🎯  Mission:         landing a kickass internship before Dec placement season
-```
-
----
-
 ## 🚀 About Me
 
 - 🎓 Pursuing a **B.Tech in Bioscience and Bioengineering with a Minor in Artificial Intelligence** at the **Indian Institute of Technology Jodhpur (IITJ)**.
@@ -115,6 +102,16 @@ Consistently refining algorithmic problem-solving skills and data structure mast
 
 ## 📊 GitHub Analytics
 
+**Commit activity (daily, last 31 days)**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar54-byte&theme=tokyo-night&hide_border=true&area=true" alt="Commit Activity Graph" width="100%"/>
+</div>
+
+**Contribution heatmap (the quadrant)**
+<div align="center">
+  <img src="https://ghchart.rshah.org/6366f1/Prakhar54-byte" alt="GitHub Contribution Heatmap" width="100%"/>
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prakhar54-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar54-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
@@ -127,18 +124,6 @@ Consistently refining algorithmic problem-solving skills and data structure mast
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prakhar54-byte&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
-
-<p align="center">
-  <img src="https://github.com/Prakhar54-byte/Prakhar54-byte/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 🎲 Random Dev Wisdom
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke"/>
-</p>
 
 ---
 
