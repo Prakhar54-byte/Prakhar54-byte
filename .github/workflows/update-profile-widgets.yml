@@ -42,12 +42,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch trophy SVG (runs once a day, not on every profile view)
+      - name: Fetch trophy SVG (try community mirrors, official one is overloaded)
         run: |
-          curl -sfL --retry 5 --retry-delay 15 --retry-all-errors \
-            "https://github-profile-trophy.vercel.app/?username=Prakhar54-byte&theme=tokyonight&no-frame=true&row=1&column=7" \
-            -o trophy.svg
-          head -c 5 trophy.svg | grep -q '<' || (echo "::error::Response is not valid SVG, aborting" && cat trophy.svg && exit 1)
+          MIRRORS=(
+            "https://github-profile-trophy-winning.vercel.app"
+            "https://github-profile-trophy-kannan.vercel.app"
+            "https://github-profile-trophy-fork-two.vercel.app"
+            "https://github-profile-trophy-liard-delta.vercel.app"
+            "https://github-profile-trophy.vercel.app"
+          )
+          for base in "${MIRRORS[@]}"; do
+            echo "Trying $base"
+            if curl -sfL --retry 2 --retry-delay 5 \
+              "${base}/?username=Prakhar54-byte&theme=tokyonight&no-frame=true&row=1&column=7" \
+              -o trophy.svg; then
+              if head -c 5 trophy.svg | grep -q '<'; then
+                echo "Success with $base"
+                exit 0
+              fi
+            fi
+          done
+          echo "::error::All mirrors failed, keeping previous trophy.svg"
+          exit 1
 
       - name: Pull latest before committing (avoid race with other runs)
         run: git pull --rebase --autostash origin main
