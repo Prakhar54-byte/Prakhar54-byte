@@ -122,8 +122,16 @@ Consistently refining algorithmic problem-solving skills and data structure mast
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prakhar54-byte&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/main/trophy.svg" alt="GitHub Trophies"/>
 </div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
