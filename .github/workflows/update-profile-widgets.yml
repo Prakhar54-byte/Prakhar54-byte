@@ -4,8 +4,10 @@ on:
   schedule:
     - cron: "0 0 * * *"   # runs once daily at midnight UTC
   workflow_dispatch:        # lets you trigger it manually from the Actions tab
-  push:
-    branches: [main]
+
+concurrency:
+  group: profile-widgets
+  cancel-in-progress: false
 
 jobs:
   snake:
