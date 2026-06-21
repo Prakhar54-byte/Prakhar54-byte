@@ -49,6 +49,9 @@ jobs:
             -o trophy.svg
           head -c 5 trophy.svg | grep -q '<' || (echo "::error::Response is not valid SVG, aborting" && cat trophy.svg && exit 1)
 
+      - name: Pull latest before committing (avoid race with other runs)
+        run: git pull --rebase --autostash origin main
+
       - name: Commit trophy.svg to repo
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
