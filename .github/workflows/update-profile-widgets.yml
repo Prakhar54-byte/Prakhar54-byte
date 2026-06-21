@@ -47,6 +47,7 @@ jobs:
         with:
           username: Prakhar54-byte
           output_path: trophy.svg
+          theme: onedark
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Pull latest before committing (avoid race with other runs)
