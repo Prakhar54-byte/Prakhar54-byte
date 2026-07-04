@@ -115,7 +115,7 @@ Consistently refining algorithmic problem-solving skills and data structure mast
 </div>
 
 <div align="center">
-  <img src="[https://vercel.com/prakhar54-bytes-projects/github-readme-stats/4yS6P22Xz7RdMYrW2Gkb7UCs7YXU/api?username=Prakhar54-byte&show_icons=true&count_private=true](https://github-readme-stats-ten-dusky-27.vercel.app/api?username=Prakhar54-byte&show_icons=true&count_private=true)" alt="GitHub Streak Stats" height="170"/>
+  <img src="https://github-readme-stats-ten-dusky-27.vercel.app/api?username=Prakhar54-byte&show_icons=true&count_private=true" alt="GitHub Streak Stats" height="170"/>
 </div>
 
 
