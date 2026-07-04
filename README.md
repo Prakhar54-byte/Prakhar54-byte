@@ -99,26 +99,18 @@ Consistently refining algorithmic problem-solving skills and data structure mast
 - 🔵 **Codeforces:** [prakharchauhan179](https://codeforces.com/profile/prakharchauhan179) | Active participant in rated contests
 
 ---
-
 ## 📊 GitHub Analytics
-
 **Commit activity (daily, last 31 days)**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar54-byte&theme=tokyo-night&hide_border=true&area=true" alt="Commit Activity Graph" width="100%"/>
 </div>
-
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar54-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar54-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-ten-dusky-27.vercel.app/api?username=Prakhar54-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-ten-dusky-27.vercel.app/api/top-langs/?username=Prakhar54-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats-ten-dusky-27.vercel.app/api?username=Prakhar54-byte&show_icons=true&count_private=true" alt="GitHub Streak Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Prakhar54-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170"/>
 </div>
-
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakhar54-byte/Prakhar54-byte/output/github-contribution-grid-snake-dark.svg" />
