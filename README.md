@@ -27,20 +27,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Pursuing a **B.Tech in Bioscience and Bioengineering with a Minor in Artificial Intelligence** at the **Indian Institute of Technology Jodhpur (IITJ)**.
-- 👨‍💻 Focused on **Full-Stack Development (MERN/Django)** and **Machine Learning (Deep Learning, GANs, Transformers)**.
-- 🐧 Advanced Linux user developing primarily on **Arch Linux (Wayland, KDE Plasma)** — yes, I will mention it unprompted.
-- 💬 Always open to discussing system architecture, competitive programming, or AI research.
+-  Pursuing a **B.Tech in Bioscience and Bioengineering with a Minor in Artificial Intelligence** at the **Indian Institute of Technology Jodhpur (IITJ)**.
+-  Focused on **Full-Stack Development (MERN/Django)** and **Machine Learning (Deep Learning, GANs, Transformers)**.
+-  Advanced Linux user developing primarily on **Arch Linux (Wayland, KDE Plasma)** — yes, I will mention it unprompted.
+-  Always open to discussing system architecture, competitive programming, or AI research.
 
 ---
 
-## 🌍 Open Source Contributions
+##  Open Source Contributions
 
 I am a strong advocate for open-source software and actively contribute to community-driven projects.
-- 🔀 **Merged Pull Requests:** Regularly contributing code, bug fixes, and feature enhancements to various repositories with a track record of successfully merged PRs.
-- 🌟 **GirlScript Summer of Code (GSSoC):** Active participant contributing to the Open Source and Artificial Intelligence Agents tracks.
+-  **Merged Pull Requests:** Regularly contributing code, bug fixes, and feature enhancements to various repositories with a track record of successfully merged PRs.
 
 ---
 
@@ -73,33 +72,33 @@ I am a strong advocate for open-source software and actively contribute to commu
 
 ---
 
-## ✨ Featured Projects
+## Featured Projects
 
-1. 🤝 **CSR Connect**
+1. **CSR Connect**
    A production-grade compliance auditing pipeline built for university faculty. Utilizes **Google Gemini API**, **RAG (Retrieval-Augmented Generation)**, **PostgreSQL**, and the **Django REST framework** to automate document analysis and SDG classification.
-   🔗 [View on GitHub](https://github.com/prasangeet/CSRconnect)
+   [View on GitHub](https://github.com/prasangeet/CSRconnect)
 
-2. 📹 **Streamify**
+2.  **Streamify**
    A real-time, full-stack language exchange platform engineered using **WebRTC** and containerized with **Docker** for seamless deployment and scalability.
 
-3. 🔍 **High-Capacity Bi-directional FPN (YOLOv12-nano)**
+3.  **High-Capacity Bi-directional FPN (YOLOv12-nano)**
    Research-focused integration of a BiFPN into YOLOv12-nano architecture to significantly enhance small object detection capabilities.
 
-4. 🦇 **SpellJump — AI Typo Jumper**
+4.  **SpellJump — AI Typo Jumper**
    An AI-powered VS Code and Cursor extension that provides real-time, offline-first typo detection and cursor jumping.
    **Tech Stack:** TypeScript, ONNX, PyTorch, DistilBERT, Hugging Face
    **Highlights:** Trained and fine-tuned a DistilBERT model using PyTorch, exported to ONNX format to run lightning-fast locally without eating up system RAM. Features real-time diagnostics, quick-fix suggestions, and integrated keyboard shortcuts for seamless typo navigation.
 
 ---
 
-## 🧠 Competitive Programming
+## Competitive Programming
 
 Consistently refining algorithmic problem-solving skills and data structure mastery:
-- 🟠 **LeetCode:** [prakhar54-byte](https://leetcode.com/u/prakhar54-byte/) | 500+ problems solved
-- 🔵 **Codeforces:** [prakharchauhan179](https://codeforces.com/profile/prakharchauhan179) | Active participant in rated contests
+-  **LeetCode:** [prakhar54-byte](https://leetcode.com/u/prakhar54-byte/) | 500+ problems solved
+-  **Codeforces:** [prakharchauhan179](https://codeforces.com/profile/prakharchauhan179) | Active participant in rated contests
 
 ---
-## 📊 GitHub Analytics
+##  GitHub Analytics
 **Commit activity (daily, last 31 days)**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar54-byte&theme=tokyo-night&hide_border=true&area=true" alt="Commit Activity Graph" width="100%"/>
