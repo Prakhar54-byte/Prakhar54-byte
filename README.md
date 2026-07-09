@@ -36,15 +36,15 @@
                  =#%##**#######%%%%%%%#%#-                  Host: IIT Jodhpur — BSBE + AI Minor
                .*%%#+--=====+++++++*#@@%%%#=                Batch: 2027
                =@@#-:.:::::----------+%@%#=-                Role: Co-founder, Ops & Strategy @ SatyaSakshi LLP
-               *@*-:::...:::::::::---==%@@*                 Focus: Full-Stack (MERN/Django) + ML (DL, GANs, Transformers)
+               *@*-:::...:::::::::---==%@@*                 Focus: Full-Stack (MERN/Django) + ML (GANs, Transformers)
                %%-::::::::::::::-::----+@@*                 Kernel: Arch Linux (Wayland, KDE Plasma) — btw
               .%*==++*****+===+*##***+==#@-                 Shell: zsh
               -%=-++===++*#*=*#**++++**+#@.                 Editor:  VS Code
               #%===++++++=**+#+++**+**++%@.                 Languages: C++, Python, TypeScript, JavaScript, C
-              -#==-------=-..=*=======+=#*=:              
+              -#==-------=-..=*=======+=#*=:                Uptime: 4th year
               -=-::---==--::--=++=-----=++*-                
               :=---==++++####%#***+++===+#+.                
-               +===+*##++*##%%%####*++++*#:                 Uptime: 4th year
+               +===+*##++*##%%%####*++++*#:                 
                -+++++#%##*++++*##%%#+++**-                  Packages: Multiple merged PRs (open source)
                 +++==+++++==+++++++++**#:                   
                 -*+++====+*%%#*===+***#=
