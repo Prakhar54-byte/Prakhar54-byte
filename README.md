@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi , I'm Prakhar Chauhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hands"/>
+  Hi I'm Prakhar Chauhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hands"/>
 </h1>
 
 <p align="center">
@@ -40,12 +40,12 @@
                %%-::::::::::::::-::----+@@*                 Kernel: Arch Linux (Wayland, KDE Plasma) — btw
               .%*==++*****+===+*##***+==#@-                 Shell: zsh
               -%=-++===++*#*=*#**++++**+#@.                 Editor:  VS Code
-              #%===++++++=**+#+++**+**++%@.                 Languages: C++, Python, TypeScript, JavaScript, C
-              -#==-------=-..=*=======+=#*=:                Uptime: 4th year
+              #%===++++++=**+#+++**+**++%@.                 Languages: C++, Python, TypeScript, JavaScript
+              -#==-------=-..=*=======+=#*=:                
               -=-::---==--::--=++=-----=++*-                
               :=---==++++####%#***+++===+#+.                
                +===+*##++*##%%%####*++++*#:                 
-               -+++++#%##*++++*##%%#+++**-                  Packages: Multiple merged PRs (open source)
+               -+++++#%##*++++*##%%#+++**-                  
                 +++==+++++==+++++++++**#:                   
                 -*+++====+*%%#*===+***#=
                .:+#**+=---=++=====*#%%=                     ■■■■■■■■  ■■■■■■■■  ■■■■■■■■  ■■■■■■■■
