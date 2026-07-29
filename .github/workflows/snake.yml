@@ -35,4 +35,4 @@ jobs:
           target_branch: output # The branch where the SVG files will be committed
           build_dir: dist # The directory containing the generated files
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub token to allow pushing to the branch
+          PAT: ${{ secrets.PAT }} # GitHub token to allow pushing to the branch
