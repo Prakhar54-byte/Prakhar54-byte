@@ -156,6 +156,3 @@ Consistently refining algorithmic problem-solving skills and data structure mast
 
 ---
 
-> *"I don't want to survive. I want to live."* — **WALL-E**
->
-> *"It compiles. Ship it."* — every dev, 3 AM, regretting it by morning
