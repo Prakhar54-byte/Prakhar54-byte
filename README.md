@@ -32,7 +32,7 @@
 ```
                        -=+++==-:.                           prakhar@iitj-jodhpur
                     :=+##########**+-:.                     ---------------------
-                  :+##########%%%%%%###=.                   OS: Human v22 (B23BB1032)
+                  :+##########%%%%%%###=.                   OS: Human 
                  =#%##**#######%%%%%%%#%#-                  Host: IIT Jodhpur — BSBE + AI Minor
                .*%%#+--=====+++++++*#@@%%%#=                Batch: 2027
                =@@#-:.:::::----------+%@%#=-                Role: Co-founder, Ops & Strategy @ SatyaSakshi LLP
