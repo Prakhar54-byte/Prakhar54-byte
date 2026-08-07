@@ -25,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          PAT: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -33,7 +33,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          PAT: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   trophy:
     runs-on: ubuntu-latest
@@ -46,9 +46,9 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Prakhar54-byte
-          output_path: trophy.svg
+          output_GITHUB_TOKENh: trophy.svg
           theme: onedark
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Pull latest before committing (avoid race with other runs)
         run: git pull --rebase --autostash origin main
@@ -57,4 +57,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh trophy svg"
-          file_pattern: trophy.svg
+          file_GITHUB_TOKENtern: trophy.svg
