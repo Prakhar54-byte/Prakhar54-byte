@@ -117,10 +117,8 @@ I am a strong advocate for open-source software and actively contribute to commu
 2.  **Streamify**
    A real-time, full-stack language exchange platform engineered using **WebRTC** and containerized with **Docker** for seamless deployment and scalability.
 
-3.  **High-Capacity Bi-directional FPN (YOLOv12-nano)**
-   Research-focused integration of a BiFPN into YOLOv12-nano architecture to significantly enhance small object detection capabilities.
 
-4.  **SpellJump — AI Typo Jumper**
+3.  **SpellJump — AI Typo Jumper**
    An AI-powered VS Code and Cursor extension that provides real-time, offline-first typo detection and cursor jumping.
    **Tech Stack:** TypeScript, ONNX, PyTorch, DistilBERT, Hugging Face
    **Highlights:** Trained and fine-tuned a DistilBERT model using PyTorch, exported to ONNX format to run lightning-fast locally without eating up system RAM. Features real-time diagnostics, quick-fix suggestions, and integrated keyboard shortcuts for seamless typo navigation.
