@@ -48,7 +48,7 @@
                -+++++#%##*++++*##%%#+++**-                  
                 +++==+++++==+++++++++**#:                   
                 -*+++====+*%%#*===+***#=
-               .:+#**+=---=++=====*#%%=                     ■■■■■■■■  ■■■■■■■■  ■■■■■■■■  ■■■■■■■■
+               .:+#**+=---=++=====*#%%=                     
              .:..-*###+++++******#%@%+
         :-=+*#*. .=**%%%%@@@@@@@@@%#*%=..::.
     .-+***####%: -+##*#%%%@%%%%%%##*#@%+==**%*+-:.
@@ -67,7 +67,6 @@
 
 -  Pursuing a **B.Tech in Bioscience and Bioengineering with a Minor in Artificial Intelligence** at the **Indian Institute of Technology Jodhpur (IITJ)**.
 -  Focused on **Full-Stack Development (MERN/Django)** and **Machine Learning (Deep Learning, GANs, Transformers)**.
--  Advanced Linux user developing primarily on **Arch Linux (Wayland, KDE Plasma)** — yes, I will mention it unprompted.
 -  Always open to discussing system architecture, competitive programming, or AI research.
 
 ---
