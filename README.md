@@ -35,7 +35,7 @@
                   :+##########%%%%%%###=.                   OS: Human 
                  =#%##**#######%%%%%%%#%#-                  Host: IIT Jodhpur — BSBE + AI Minor
                .*%%#+--=====+++++++*#@@%%%#=                Batch: 2027
-               =@@#-:.:::::----------+%@%#=-                Role: Co-founder, Ops & Strategy @ SatyaSakshi LLP
+               =@@#-:.:::::----------+%@%#=-                
                *@*-:::...:::::::::---==%@@*                 Focus: Full-Stack (MERN/Django) + ML (GANs, Transformers)
                %%-::::::::::::::-::----+@@*                 Kernel: Arch Linux (Wayland, KDE Plasma) — btw
               .%*==++*****+===+*##***+==#@-                 Shell: zsh
