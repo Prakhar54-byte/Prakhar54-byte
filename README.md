@@ -36,7 +36,7 @@
                  =#%##**#######%%%%%%%#%#-                  Host: IIT Jodhpur — BSBE + AI Minor
                .*%%#+--=====+++++++*#@@%%%#=                Batch: 2027
                =@@#-:.:::::----------+%@%#=-                
-               *@*-:::...:::::::::---==%@@*                 Focus: Full-Stack (MERN/Django) + ML (GANs, Transformers)
+               *@*-:::...:::::::::---==%@@*                 Focus: AI(Agents, Harnessing)+ ML 
                %%-::::::::::::::-::----+@@*                 Kernel: Arch Linux (Wayland, KDE Plasma) — btw
               .%*==++*****+===+*##***+==#@-                 Shell: zsh
               -%=-++===++*#*=*#**++++**+#@.                 Editor:  VS Code
