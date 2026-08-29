@@ -113,11 +113,10 @@ I am a strong advocate for open-source software and actively contribute to commu
    A production-grade compliance auditing pipeline built for university faculty. Utilizes **Google Gemini API**, **RAG (Retrieval-Augmented Generation)**, **PostgreSQL**, and the **Django REST framework** to automate document analysis and SDG classification.
    [View on GitHub](https://github.com/prasangeet/CSRconnect)
 
-2.  **Streamify**
-   A real-time, full-stack language exchange platform engineered using **WebRTC** and containerized with **Docker** for seamless deployment and scalability.
 
 
-3.  **SpellJump — AI Typo Jumper**
+
+2.  **SpellJump — AI Typo Jumper**
    An AI-powered VS Code and Cursor extension that provides real-time, offline-first typo detection and cursor jumping.
    **Tech Stack:** TypeScript, ONNX, PyTorch, DistilBERT, Hugging Face
    **Highlights:** Trained and fine-tuned a DistilBERT model using PyTorch, exported to ONNX format to run lightning-fast locally without eating up system RAM. Features real-time diagnostics, quick-fix suggestions, and integrated keyboard shortcuts for seamless typo navigation.
