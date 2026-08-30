@@ -105,24 +105,6 @@ I am a strong advocate for open-source software and actively contribute to commu
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
----
-
-## Featured Projects
-
-1. **CSR Connect**
-   A production-grade compliance auditing pipeline built for university faculty. Utilizes **Google Gemini API**, **RAG (Retrieval-Augmented Generation)**, **PostgreSQL**, and the **Django REST framework** to automate document analysis and SDG classification.
-   [View on GitHub](https://github.com/prasangeet/CSRconnect)
-
-
-
-
-2.  **SpellJump — AI Typo Jumper**
-   An AI-powered VS Code and Cursor extension that provides real-time, offline-first typo detection and cursor jumping.
-   **Tech Stack:** TypeScript, ONNX, PyTorch, DistilBERT, Hugging Face
-   **Highlights:** Trained and fine-tuned a DistilBERT model using PyTorch, exported to ONNX format to run lightning-fast locally without eating up system RAM. Features real-time diagnostics, quick-fix suggestions, and integrated keyboard shortcuts for seamless typo navigation.
-
----
-
 ## Competitive Programming
 
 Consistently refining algorithmic problem-solving skills and data structure mastery:
