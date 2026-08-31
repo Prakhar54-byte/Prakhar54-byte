@@ -22,7 +22,6 @@
   <a href="https://www.linkedin.com/in/prakhar-chauhan-9a32b52b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Prakhar54-byte&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
