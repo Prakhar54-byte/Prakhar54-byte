@@ -64,7 +64,7 @@
 
 ## About Me
 
--  Pursuing a **B.Tech in Bioscience and Bioengineering with a Minor in Artificial Intelligence** at the **Indian Institute of Technology Jodhpur (IITJ)**.
+-  Pursuing a **B.Tech in Bioscience and Bioengineering with a Minor in Artificial Intelligence** at the **Indian Institute of Technology Jodhpur **.
 -  Always open to discussing system architecture, competitive programming, or AI research.
 
 ---
