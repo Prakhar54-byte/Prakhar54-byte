@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>Software Development & Machine learning  Engineer | Constant Learner  </em><br>
+  <em Machine learning  Engineer | Constant Learner  </em><br>
   Passionate about architecting robust backend systems, deep learning models, and contributing to the open-source ecosystem.
 </p>
 
